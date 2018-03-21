@@ -1,7 +1,6 @@
 tags:
-  - arrays
-  - iteration
-  - readme
+  - javascript
 languages:
   - javascript
-resources: 2
+resources:
+  - 1
